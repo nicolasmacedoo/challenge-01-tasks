@@ -1,0 +1,17 @@
+{
+  "name": "challenge-01-tasks",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-parse": "^5.5.6",
+    "multer": "^1.4.5-lts.1"
+  }
+}
